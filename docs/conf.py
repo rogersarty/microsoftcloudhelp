@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Cloud MS Setup'
+project = 'Microsoft Cloud Help'
 copyright = '2025'
 author = 'Douglas Owram'
 
