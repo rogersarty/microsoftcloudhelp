@@ -3,6 +3,12 @@ How to Download and Install or Reinstall Microsoft Office 365 Already Purchased 
 
 If you’ve recently bought Microsoft Office and are wondering how to **download Office 365 already purchased**, you’re in the right place. Whether you’re setting up Office for the first time or need to **reinstall Office 365 already purchased** after a reset or system crash, this guide walks you through the process step by step.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href=https://office365setup.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Office Setup</a>
+   </div>
+
 Many users face confusion when it comes to locating their purchase, logging in with the correct Microsoft account, or troubleshooting installation errors. In this complete guide, we’ll cover how to **install Office 365 already purchased** on a Windows PC, how to manage multiple licenses, and how to troubleshoot common issues along the way. The same steps apply for installing Office 2024 (non-subscription version), with some minor differences.
 
 Understanding Office 365 and Office 2024
